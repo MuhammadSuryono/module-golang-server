@@ -55,3 +55,7 @@ func ConfigServer() *gin.RouterGroup {
 func RunServer(port string) {
 	_ = config.Run(fmt.Sprintf("0.0.0.0:%s", port))
 }
+
+func BuildResponseJson(code int, value interface{}) {
+	Context.JSON(code, value)
+}

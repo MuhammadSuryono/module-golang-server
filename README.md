@@ -1,0 +1,2 @@
+# module-golang-server
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/00328cce05454ac0b07454e45339fad5)](https://app.codacy.com/gh/MuhammadSuryono/module-golang-server?utm_source=github.com&utm_medium=referral&utm_content=MuhammadSuryono/module-golang-server&utm_campaign=Badge_Grade_Settings)
